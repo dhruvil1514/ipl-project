@@ -1,0 +1,333 @@
+{
+ "4":[
+    {
+        "name": "RN ten Doeschate",
+        "y": 3.4285714285714284
+    },
+    {
+        "name": "J Yadav",
+        "y": 4.142857142857142
+    },
+    {
+        "name": "V Kohli",
+        "y": 5.454545454545454
+    },
+    {
+        "name": "R Ashwin",
+        "y": 5.7250000000000005
+    },
+    {
+        "name": "S Nadeem",
+        "y": 5.863636363636363
+    },
+    {
+        "name": "Z Khan",
+        "y": 6.15483870967742
+    },
+    {
+        "name": "Parvez Rasool",
+        "y": 6.200000000000001
+    },
+    {
+        "name": "MC Henriques",
+        "y": 6.267515923566879
+    },
+    {
+        "name": "MA Starc",
+        "y": 6.75
+    },
+    {
+        "name": "M de Lange",
+        "y": 6.9230769230769225
+    }
+ ],
+ "2":[
+    {
+        "name": "Sunrisers Hyderabad",
+        "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            6,
+            7,
+            11,
+            8
+        ]
+    },
+    {
+        "name": "Rising Pune Supergiant",
+        "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10
+        ]
+    },
+    {
+        "name": "Kolkata Knight Riders",
+        "data": [
+            6,
+            3,
+            7,
+            8,
+            12,
+            6,
+            11,
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "name": "Kings XI Punjab",
+        "data": [
+            10,
+            7,
+            4,
+            7,
+            8,
+            8,
+            12,
+            3,
+            4,
+            7
+        ]
+    },
+    {
+        "name": "Royal Challengers Bangalore",
+        "data": [
+            4,
+            9,
+            8,
+            10,
+            8,
+            9,
+            5,
+            8,
+            9,
+            3
+        ]
+    },
+    {
+        "name": "Mumbai Indians",
+        "data": [
+            7,
+            5,
+            11,
+            10,
+            10,
+            13,
+            7,
+            10,
+            7,
+            12
+        ]
+    },
+    {
+        "name": "Delhi Daredevils",
+        "data": [
+            7,
+            10,
+            7,
+            4,
+            11,
+            3,
+            2,
+            5,
+            7,
+            6
+        ]
+    },
+    {
+        "name": "Gujarat Lions",
+        "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            9,
+            4
+        ]
+    },
+    {
+        "name": "Chennai Super Kings",
+        "data": [
+            9,
+            8,
+            9,
+            11,
+            10,
+            12,
+            10,
+            10,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "Rajasthan Royals",
+        "data": [
+            13,
+            6,
+            6,
+            6,
+            7,
+            11,
+            7,
+            7,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "Deccan Chargers",
+        "data": [
+            2,
+            9,
+            8,
+            6,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "Pune Warriors",
+        "data": [
+            0,
+            0,
+            0,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "Kochi Tuskers Kerala",
+        "data": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "Rising Pune Supergiants",
+        "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0
+        ]
+    }
+],
+"3":[
+    {
+        "name": "Rising Pune Supergiants",
+        "y": 108
+    },
+    {
+        "name": "Mumbai Indians",
+        "y": 102
+    },
+    {
+        "name": "Kolkata Knight Riders",
+        "y": 122
+    },
+    {
+        "name": "Delhi Daredevils",
+        "y": 106
+    },
+    {
+        "name": "Gujarat Lions",
+        "y": 98
+    },
+    {
+        "name": "Kings XI Punjab",
+        "y": 100
+    },
+    {
+        "name": "Sunrisers Hyderabad",
+        "y": 107
+    },
+    {
+        "name": "Royal Challengers Bangalore",
+        "y": 156
+    }
+],
+"1":[
+    {
+        "name": "2008",
+        "y": 58
+    },
+    {
+        "name": "2009",
+        "y": 57
+    },
+    {
+        "name": "2010",
+        "y": 60
+    },
+    {
+        "name": "2011",
+        "y": 73
+    },
+    {
+        "name": "2012",
+        "y": 74
+    },
+    {
+        "name": "2013",
+        "y": 76
+    },
+    {
+        "name": "2014",
+        "y": 60
+    },
+    {
+        "name": "2015",
+        "y": 59
+    },
+    {
+        "name": "2016",
+        "y": 60
+    },
+    {
+        "name": "2017",
+        "y": 59
+    }
+]
+
+}

@@ -1,19 +1,19 @@
 fetch('JsonFiles/matchesOwnPerAllYear.json').then((response) => response.json()).then(data => {
     var jsondata = data;
-    plotChart1(jsondata);
+    plotChart1(jsondata["1"]);
 })
-fetch('JsonFiles/matcheswon.json').then((response) => response.json()).then(data => {
+fetch('JsonFiles/economicalbowlers1.json').then((response) => response.json()).then(data => {
     var jsondata = data;
-    plotChart2(jsondata);
+    plotChart2(jsondata["2"]);
 })
 fetch('JsonFiles/extraruns.json').then((response) => response.json()).then(data => {
     var jsondata = data;
     plotChart3(jsondata);
 })
-fetch('JsonFiles/economicalbowlers1.json').then((response) => response.json()).then(data => {
+/*fetch('JsonFiles/economicalbowlers1.json').then((response) => response.json()).then(data => {
     var jsondata = data;
     plotChart4(jsondata);
-})
+})*/
 function plotChart1(jsonobject) {
     Highcharts.chart('container', {
 
